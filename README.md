@@ -5,15 +5,15 @@ Digital Image Processing
 
 智慧科技學院 智慧機器人學程
 
-大學部 智慧機器人學程 ｜ 高中 AI 機器人社團課程
+適用於 大學部智慧機器人學程 ｜ 高中 AI 機器人社團課程
 
-編著 李世淵（機器人叫獸）
-
-助教 李天宇、李宇晴
+編著 李世淵（機器人叫獸） 助教 李天宇、李宇晴
 
 課程資訊與補充教材 @prof
 
-[![影像處理：從像素到世界](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_P_w6_Lxo36NZpqtGALmHin1ZEbKqZfL2s6jBPCeiA&s=10)](https://youtu.be/-u73R42L900)
+![影像處理](https://github.com/leeshihyuan/Image-Processing/blob/main/Image-Processing_Cover-2.png "影像處理")
+
+https://youtu.be/-u73R42L900
 
 # 序言 從像素到世界
 這本書是為國立雲林科技大學智慧科技學院智慧機器人學程的《影像處理》課程而寫的,同時也希望能為高中的 AI 機器人課程提供一份可用的教材。它從一張影像最基本的像素講起,一路走到讓機器自己學習、自己辨識,最後把這一切裝進機器人裡,讓它能在真實世界中看見與行動。
@@ -323,3 +323,5 @@ Digital Image Processing
 | 18.7 | 全書技術整合地圖 | 250 |
 
 ---
+
+![影像處理](https://github.com/leeshihyuan/Image-Processing/blob/main/Image-Processing_Cover-1.jpg "影像處理")
