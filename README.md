@@ -11,9 +11,12 @@ Digital Image Processing
 
 課程資訊與補充教材 @prof
 
+https://github.com/leeshihyuan/Image-Processing/blob/main/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86_C02%E7%89%88.pdf
+
 ![影像處理](https://github.com/leeshihyuan/Image-Processing/blob/main/Image-Processing_Cover-2.png "影像處理")
 
 https://youtu.be/-u73R42L900
+
 
 # 序言 從像素到世界
 這本書是為國立雲林科技大學智慧科技學院智慧機器人學程的《影像處理》課程而寫的,同時也希望能為高中的 AI 機器人課程提供一份可用的教材。它從一張影像最基本的像素講起,一路走到讓機器自己學習、自己辨識,最後把這一切裝進機器人裡,讓它能在真實世界中看見與行動。
