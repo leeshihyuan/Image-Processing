@@ -11,7 +11,7 @@ Digital Image Processing
 
 課程資訊與補充教材 @prof
 
-https://github.com/leeshihyuan/Image-Processing/blob/main/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86_C02%E7%89%88.pdf
+影像處理 教科書 C02版 修正後上傳 https://github.com/leeshihyuan/Image-Processing/blob/main/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86_C02%E7%89%88.pdf
 
 ![影像處理](https://github.com/leeshihyuan/Image-Processing/blob/main/Image-Processing_Cover-2.png "影像處理")
 
